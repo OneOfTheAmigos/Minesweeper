@@ -1,0 +1,10 @@
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\bin\Debug\Minesweeper 3.0.exe.config
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\bin\Debug\Minesweeper 3.0.exe
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\bin\Debug\Minesweeper 3.0.pdb
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper 3.0.csprojAssemblyReference.cache
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper_3._0.Form1.resources
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper_3._0.Properties.Resources.resources
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper 3.0.csproj.GenerateResource.cache
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper 3.0.csproj.CoreCompileInputs.cache
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper 3.0.exe
+C:\Users\ecotr\source\repos\Minesweeper 3.0\Minesweeper 3.0\obj\Debug\Minesweeper 3.0.pdb
